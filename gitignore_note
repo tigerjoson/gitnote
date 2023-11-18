@@ -1,0 +1,8 @@
+# my basic ignore file for eclipse
+#naming .gitignore file
+.classpath
+.project
+myexcel/src/test/**
+myexcel/target/**
+.settings/**
+*.class
